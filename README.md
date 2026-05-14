@@ -13,3 +13,14 @@ A Python script that automatically cleans messy spreadsheet data.
 1. Clone this repo
 2. Place your CSV file in the same folder as `cleaner.py`
 3. Open `cleaner.py` and update these two lines:
+4. Run: `python cleaner.py`
+
+## Example output
+```
+Done! Cleaned 142 rows.
+Saved to: cleaned_data.csv
+```
+
+## Tech used
+- Python 3
+- `csv` (built-in library, no install needed)
